@@ -3,6 +3,6 @@ using namespace std;
 
 class Mahasiswa
 {
-public :
-
+public : //akses modifier
+	string nama;
 };
